@@ -47,7 +47,3 @@ build: [
 
 run-test: [ "dune" "test" ]
 
-install: [
-  [ make "install_emacs" ]
-  [ make "install_vim" ]
-]
